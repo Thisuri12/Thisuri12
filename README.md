@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Full-stack web development projects using Next.js, React, Node.js, and databases, with a focus on building scalable, maintainable applications.<br><br>👯 I’m looking to collaborate on: Open-source projects, SaaS applications, or research-oriented initiatives in data science, machine learning, or quantum computing.<br><br>🤝 I’m looking for help with: Advanced algorithms, quantum computing simulations, optimization problems, and implementing complex data pipelines.<br><br>🌱 I’m currently learning: Quantum computing frameworks , data science, and performance optimization in full-stack applications.
 
 
